@@ -1,0 +1,15 @@
+E:\vbp\Mims_Christy Math Tables\Mims_Christy Math Tables\bin\Debug\Mims_Christy Math Tables.exe.config
+E:\vbp\Mims_Christy Math Tables\Mims_Christy Math Tables\bin\Debug\Mims_Christy Math Tables.exe
+E:\vbp\Mims_Christy Math Tables\Mims_Christy Math Tables\bin\Debug\Mims_Christy Math Tables.pdb
+E:\vbp\Mims_Christy Math Tables\Mims_Christy Math Tables\bin\Debug\Mims_Christy Math Tables.xml
+E:\vbp\Mims_Christy Math Tables\Mims_Christy Math Tables\obj\Debug\Mims_Christy Math Tables.vbprojResolveAssemblyReference.cache
+E:\vbp\Mims_Christy Math Tables\Mims_Christy Math Tables\obj\Debug\Mims_Christy_Math_Tables.Resources.resources
+E:\vbp\Mims_Christy Math Tables\Mims_Christy Math Tables\obj\Debug\Mims_Christy Math Tables.vbproj.GenerateResource.Cache
+E:\vbp\Mims_Christy Math Tables\Mims_Christy Math Tables\obj\Debug\Mims_Christy Math Tables.exe
+E:\vbp\Mims_Christy Math Tables\Mims_Christy Math Tables\obj\Debug\Mims_Christy Math Tables.xml
+E:\vbp\Mims_Christy Math Tables\Mims_Christy Math Tables\obj\Debug\Mims_Christy Math Tables.pdb
+E:\vbp\Mims_Christy Math Tables\Mims_Christy Math Tables\obj\Debug\Mims_Christy_Math_Tables.frmMathTables.resources
+G:\vbp\Mims_Christy Math Tables\Mims_Christy Math Tables\bin\Debug\Mims_Christy Math Tables.exe.config
+G:\vbp\Mims_Christy Math Tables\Mims_Christy Math Tables\obj\Debug\Mims_Christy Math Tables.exe
+G:\vbp\Mims_Christy Math Tables\Mims_Christy Math Tables\obj\Debug\Mims_Christy Math Tables.xml
+G:\vbp\Mims_Christy Math Tables\Mims_Christy Math Tables\obj\Debug\Mims_Christy Math Tables.pdb
